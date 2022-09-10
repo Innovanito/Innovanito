@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m currently studying in Koreatech University
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate on React Native Project
-- 💬 Ask me about anything through khg05311 in KakaoTalk or khg_0531 in Instagra
+- 💬 Ask me about anything through khg05311 in KakaoTalk or khg_0531 in Instagram!
+
 - ❤️‍🔥 I love to do ballet🩰 and Producing Tropical House music 🎧🎹
 
 
@@ -18,3 +19,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=graphql)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=for-the-badge&logo=react)
+
+
+## My recent projects
+
+
+<img class='text-center' width="414" alt="logo" src="https://user-images.githubusercontent.com/72393144/189475542-10bf9186-9257-45d7-9561-905e6b28e23f.png"> <br/>
+JoonggoBook
+
+### Description 
+This project is made university students to trade used books <br/>
+URL: www.joonggobook.com
