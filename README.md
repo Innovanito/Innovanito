@@ -16,3 +16,5 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=graphql)
+![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=for-the-badge&logo=react)
