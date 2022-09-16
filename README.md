@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=graphql)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=for-the-badge&logo=react)
+![SanityIO](https://img.shields.io/badge/-sanity.io-orange?style=for-the-badge&logo=)
 
 
 ## My recent projects
