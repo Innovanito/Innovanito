@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+## Hi 😆
 - 🔭 I’m currently studying in Koreatech University
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate on React Native Project
@@ -21,14 +19,23 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=graphql)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=for-the-badge&logo=react)
 ![SanityIO](https://img.shields.io/badge/-sanity.io-orange?style=for-the-badge&logo=)
+![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python&labelColor=yellow)
+
 
 
 ## My recent projects
 
+### JoonggoBook WebSite
 
 <img class='text-center' width="414" alt="logo" src="https://user-images.githubusercontent.com/72393144/189475542-10bf9186-9257-45d7-9561-905e6b28e23f.png"> <br/>
-JoonggoBook
 
-### Description 
-This project is made university students to trade used books <br/>
-URL: www.joonggobook.com
+#### Description 
+This project is for university students to trade used books <br/>
+URL: www.joonggobook.com 
+
+
+### Web Crawling project using numpy and pandas
+
+#### Description
+This project is collecting useful information in the web  massively and automatically. 
+and made into excel file or text file so that the user can easily read the information that user want
