@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python&labelColor=yellow)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=tensorflow&labelColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&labelColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=for-the-badge&logo=fastapi&labelColor=white)
 
 
 
