@@ -1,7 +1,7 @@
 ## Hi 😆
-- 🔭 I’m currently studying in Koreatech University
-- 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate on React Native Project
+- 🔭 I’m graduated from Koreatech University
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on React project
 - 💬 Ask me about anything through khg05311 in KakaoTalk or khg_0531 in Instagram!
 
 - ❤️‍🔥 I love to do ballet🩰 and Producing Tropical House music 🎧🎹
