@@ -1,9 +1,6 @@
 ## Hi 😆
-- 🔭 I’m graduated from Koreatech University
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on React project
-- 💬 Ask me about anything through khg05311 in KakaoTalk or khg_0531 in Instagram!
 
+- 🌱 Fullstack Developer in Strum Korea.
 - ❤️‍🔥 I love to do ballet🩰 and Producing Tropical House music 🎧🎹
 
 
