@@ -1,6 +1,6 @@
 ## Hi 😆
 
-- 🌱 Fullstack Developer in Strum Korea.
+- 🌱 Fullstack Developer in Korea.
 - ❤️‍🔥 I love to do ballet🩰 and Producing Tropical House music 🎧🎹
 
 
